@@ -23,4 +23,4 @@ Response:
 
 Please provide the source code, tests, documentations, and any assumptions you have made.
 
-Note: We are looking for the candidate’s “Software Engineering” ability not just the Python programming skills.
+_Note: We are looking for the candidate’s “Software Engineering” ability not just the Python programming skills._
