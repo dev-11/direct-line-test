@@ -1,9 +1,9 @@
 # fork-and-code-python
 
 
-[![Build Status](https://travis-ci.org/dev-11/fork-and-code-python.svg?branch=master)](https://travis-ci.org/dev-11/fork-and-code-python)
-[![codecov](https://codecov.io/gh/dev-11/fork-and-code-python/branch/master/graph/badge.svg)](https://codecov.io/gh/dev-11/fork-and-code-python)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4ea99c7790714259a2339d92c50e3c1d)](https://www.codacy.com/manual/dev-11/fork-and-code-python?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dev-11/fork-and-code-python&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.org/dev-11/direct-line-test.svg?branch=master)](https://travis-ci.org/dev-11/direct-line-test)
+[![codecov](https://codecov.io/gh/dev-11/direct-line-test/branch/master/graph/badge.svg)](https://codecov.io/gh/dev-11/direct-line-test)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/62b05d1ff2b6409cbf80fbced63993f3)](https://www.codacy.com/manual/dev-11/direct-line-test?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dev-11/direct-line-test&amp;utm_campaign=Badge_Grade)
 
 # Software Engineer Python Test
 
