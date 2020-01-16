@@ -6,7 +6,7 @@
 
 ## Software Engineer Python Test
 
-Create a REST endpoint that return the sum of a list of numbers e.g. `[1,2,3] => 1+2+3 = 6`. You are free to use any Python 3 framework, however, try and keep the usage of the third- party library to a minimum.
+Create a REST endpoint that returns the sum of a list of numbers e.g. `[1,2,3] => 1+2+3 = 6`. You are free to use any Python 3 framework, however, try and keep the usage of the third-party library to a minimum.
 
 The list of numbers is expected to arrive from a backend service and for this test you can hard code the list using the following line.
 ```python
@@ -21,6 +21,6 @@ Response:
 }
 ```
 
-Please provide the source code, tests, documentations and any assumptions you have made.
+Please provide the source code, tests, documentations, and any assumptions you have made.
 
 Note: We are looking for the candidate’s “Software Engineering” ability not just the Python programming skills.
