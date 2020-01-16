@@ -17,7 +17,7 @@ The url of the endpoint and the sample response is as follows: Request: <http://
 Response:
 ```json
 {
-"total": 6
+    "total": 6
 }
 ```
 
