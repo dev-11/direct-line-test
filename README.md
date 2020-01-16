@@ -12,7 +12,7 @@ The list of numbers is expected to arrive from a backend service and for this te
 ```python
 numbers_to_add = list(range(10000001))
 ```
-The url of the endpoint and the sample response is as follows: Request: [http://localhost:5000/total]
+The url of the endpoint and the sample response is as follows: Request: (http://localhost:5000/total)[]
 
 Response:
 ```json
