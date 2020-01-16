@@ -1,9 +1,15 @@
 import unittest
-import app
+import json
+from app import app, get_total
 
 
 class ClassTests(unittest.TestCase):
     def test_01(self):
-        result = app.get_total()
-        self.assertEqual(50000005000000, result)
+
+        with app.app_context():
+            response = get_total()
+
+        response_data = json.loads(response.data)
+
+        self.assertEqual(50000005000000, response_data['total'])
 
