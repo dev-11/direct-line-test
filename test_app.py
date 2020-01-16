@@ -1,8 +1,9 @@
 import unittest
 import app
 
+
 class ClassTests(unittest.TestCase):
     def test_01(self):
-        result = app.method()
-        self.assertEqual('Hello World!', result)
+        result = app.get_total()
+        self.assertEqual(50000005000000, result)
 
